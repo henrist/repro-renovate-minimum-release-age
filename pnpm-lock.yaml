@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      top-user-agents:
+        specifier: 2.1.66
+        version: 2.1.66
+
+packages:
+
+  top-user-agents@2.1.66:
+    resolution: {integrity: sha512-M94JRq5pi44unP55U6hduJjDTmy1HqyDI29CrkiBgBA2XIwDnRI6jhZC2gotxYj1EPswe6pAmblrO/8j2iF0Iw==}
+
+snapshots:
+
+  top-user-agents@2.1.66: {}
