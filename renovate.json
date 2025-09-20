@@ -1,4 +1,13 @@
 {
   "extends": ["config:recommended"],
-  "minimumReleaseAge": "14 days"
+  "minimumReleaseAge": "14 days",
+  "prBodyColumns": [
+    "Package",
+    "Change",
+    "Age",
+    "Adoption",
+    "Passing",
+    "Confidence",
+    "Pending"
+  ]
 }
