@@ -1,5 +1,4 @@
 {
   "extends": ["config:recommended"],
-  "minimumReleaseAge": "14 days",
-  "internalChecksFilter": "none"
+  "minimumReleaseAge": "14 days"
 }
