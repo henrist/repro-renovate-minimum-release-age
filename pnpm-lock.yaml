@@ -9,14 +9,14 @@ importers:
   .:
     dependencies:
       top-user-agents:
-        specifier: 2.1.66
-        version: 2.1.66
+        specifier: 2.1.68
+        version: 2.1.68
 
 packages:
 
-  top-user-agents@2.1.66:
-    resolution: {integrity: sha512-M94JRq5pi44unP55U6hduJjDTmy1HqyDI29CrkiBgBA2XIwDnRI6jhZC2gotxYj1EPswe6pAmblrO/8j2iF0Iw==}
+  top-user-agents@2.1.68:
+    resolution: {integrity: sha512-9kFgGdu4YGbZ/mmymH2zICv1M/u+qhoyl00D6mciRnLD8BRJodpuZ4ih+dUJbiSZxbVnhMDTT8+mhb3rpEHZIA==}
 
 snapshots:
 
-  top-user-agents@2.1.66: {}
+  top-user-agents@2.1.68: {}
